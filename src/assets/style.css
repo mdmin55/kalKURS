@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Nabla&family=Rubik+Moonrocks&display=swap');
+body{
+  background: rgb(158,187,18);
+background: radial-gradient(circle, rgba(158,187,18,1) 20%, rgba(87,71,158,1) 79%);
+min-height: 100vh;
+  text-align: center;
+}
+h1{
+  font-family: "Nabla", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "EDPT" 100,
+    "EHLT" 12;
+  
+    font-size: 10em;
+}
